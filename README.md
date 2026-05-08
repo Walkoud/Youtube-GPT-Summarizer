@@ -9,6 +9,10 @@ A simple, lightweight Chrome Extension that adds a **"Summarize"** button direct
 - ⚙️ **Customizable Prompts:** You can modify the default ChatGPT prompt via the extension's popup to extract exactly the information you need.
 - 🛡️ **Robust Extraction:** Uses fallback strategies (DOM Scraping + API) to ensure transcripts are captured even when YouTube's anti-bot protections block API requests.
 
+<img width="750" height="123" alt="image" src="https://github.com/user-attachments/assets/69136a75-1f70-44e2-964d-c0ee435f5a32" />
+
+<img width="279" height="310" alt="image" src="https://github.com/user-attachments/assets/59eaa0f6-2f49-443c-a85a-18851d68e1af" />
+
 ## Installation
 
 ### For Developers / Manual Installation
